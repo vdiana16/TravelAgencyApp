@@ -1,6 +1,6 @@
 🌍 TravelAgencyApp
 Cross-Platform Client-Server Management System
-TravelAgencyApp is a robust management solution designed for travel agencies to streamline tour reservations with transport companies. The project features two distinct client implementations—one in Java and one in C#—communicating with a central server to ensure real-time data consistency and secure operations.
+TravelAgencyApp is a robust management solution designed for travel agencies to streamline tour reservations with transport companies. The project features two distinct client implementations, one in Java and one in C#, communicating with a central server to ensure real-time data consistency and secure operations.
 
 🚀 Key Features
 Cross-Platform Clients: Native desktop experiences built with both Java and C#.
