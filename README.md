@@ -11,7 +11,7 @@ Secure Authentication: Integrated secure login and logout mechanisms for agents.
 
 Real-Time Synchronization: Synchronized reservation system to prevent overbooking and ensure data integrity.
 
-Advanced Search: Real-time tour search functionality with visual indicators for tour availability (e.g., "Full" status).
+Advanced Search: Real-time tour search functionality with visual indicators for tour availability.
 
 🛠️ Tech Stack
 Languages: Java 17+, C# (.NET)
@@ -21,3 +21,13 @@ Networking: Socket Programming (TCP/IP) for client-server communication.
 Concurrency: Multithreading for handling multiple simultaneous client requests.
 
 Data Management: Synchronized data structures to ensure consistency across different platforms.
+
+
+📊 Business Logic Flow
+Login: Agents authenticate via the secure login module.
+
+Search: Agents search for available tours based on specific criteria.
+
+Reserve: Real-time booking updates across all connected clients (Java or C#).
+
+Audit: Visual indicators immediately mark tours as "Full" once capacity is reached.
